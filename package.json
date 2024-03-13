@@ -1,0 +1,21 @@
+{
+  "name": "x-utils",
+  "version": "0.0.18",
+  "description": "utils",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "GreatLin",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "decimal.js": "^10.4.3",
+    "lodash": "^4.17.21",
+    "numeral": "^2.0.6"
+  }
+}
